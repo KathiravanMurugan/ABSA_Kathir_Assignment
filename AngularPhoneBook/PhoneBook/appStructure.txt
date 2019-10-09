@@ -1,0 +1,17 @@
+● src
++---● app
+|   +--● PhoneBookEntries
+|   |  |--PhoneBookEntries.component.ts|.html|.css
+|   |  +--● PhoneBookEntry
+|   |  |  |--PhoneBookEntry.component.ts|.html|.css
+|   |  |
+|   |  +--● PhoneBookEntry-list
+|   |  |  |--PhoneBookEntry-list.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--PhoneBookEntry.service.ts
+|   |     |--PhoneBookEntry.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap)
